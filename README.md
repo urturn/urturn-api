@@ -1,13 +1,10 @@
-Urturn api
+Urturn REST API
 ===
 
-Welcome to the Urturn API.
+Urturn provides a RESTful interface to the resources of urturn e.g. posts, users, etc.
+This is NOT the API used to create urturn expression. If you are looking for API used in expression, visit the following project:
+[Urturn-expression-api](https://github.com/urturn/urturn-expression-api)
 
-We provide a JSON Rest API and a Javscript wrapper.
+This project contains a javascript library that hepl you use this API from a web page. If you want to use the API on the server side you can just use your prefered language and do HTTP request on the API Endpoints.
 
-[Documentation is available in the wiki](https://github.com/urturn/api/wiki)
-
-
-This is a public API to get public informations of Urturn like posts.
-
-There is another API to create Expressions you can find it here: [Urturn-expression-api](https://github.com/urturn/urturn-expression-api)
+[Go to documentation](https://github.com/urturn/api/wiki)
